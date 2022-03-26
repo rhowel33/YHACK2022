@@ -1,11 +1,6 @@
-# solutions.py
-"""Volume 2: Markov Chains."""
-
 import numpy as np
 from scipy import linalg as la
 import ctypes
-
-
 
 
 class MarkovChain:
@@ -265,10 +260,24 @@ class NGRAM:
 
     def predict(self):
         state = ' '.join(START for _ in range(self.N))
-        while not self.stop():
+        output = ""
+        while STOP not in state:
             no_space_flag = False
-            index = self.rng.normal()
+            index = self.rng.normal() % len(self.wordmap[state])
+            for symbol in PUNCT:
+                if symbol == self.wordmap[state][index]:
+                    no_space_flag = True
+                    break
+            if not no_space_flag: output += " "
+            output += wordmap[state][index]
+            state.append(wordmap[state][index])
+            state = state[1:]
 
+    def _stop(self, state):
+        for item in state:
+            if item == STOP:
+                return True
+        return False
 
 if __name__ == "__main__":
     nmf = NGRAM(3)
