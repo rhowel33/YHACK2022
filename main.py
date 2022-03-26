@@ -26,8 +26,7 @@ if __name__ == "__main__":
         pickled = True
     if not pickled:
         ngram = NGRAM(N,filename,pickled)
-        print(ngram.fit().pickle().predict())
-        a = len(ngram.predict())
+        print(ngram.fit().pickle())
     else:
         ngram = NGRAM(N,filename,pickled)
 

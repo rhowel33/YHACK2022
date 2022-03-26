@@ -4,13 +4,23 @@
 import nltk
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
-
+from nltk.corpus import inaugural
 import numpy as np
 import pickle
 
 START = "<start>"
 STOP = "<stop>"
 PUNCT = [',', '.', ';', ':', '!', '?']
+
+
+def get_speeches(n=6):
+    nltk.download()
+
+    ids = inaugural.fileids()[-n:]
+    address = [f'<start> {inaugural.raw(fileids=f"{id}")} <stop>' for id in ids]
+
+    return address
+
 
 class NGRAM:
     def __init__(self,N,filename='short_fake_corpus.txt',pickled=False):
@@ -109,6 +119,10 @@ class NGRAM:
     def pickle(self,write_type='wb'):
         with open(f'NGRM_wordmap.pk',f'{write_type}') as fout:
             pickle.dump(self.wordmap,fout)
+        with open(f'NGRAM_word_pos.pk', f'{write_type}') as fout:
+            pickle.dump(self.word_pos, fout)
+        with open(f'NGRAM_pos_word.pk', f'{write_type}') as fout:
+            pickle.dump(self.wordmap, fout)
             print("pickle complete")
         return self
 

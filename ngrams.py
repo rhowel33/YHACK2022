@@ -66,7 +66,7 @@ class NGRAM:
         return self
 
     def pickle(self,write_type='wb'):
-        with open(f'NGRM_wordmap.pk',f'{write_type}') as fout:
+        with open(f'NGRAM_wordmap.pk',f'{write_type}') as fout:
             pickle.dump(self.wordmap,fout)
             print("pickle complete")
         return self
