@@ -7,10 +7,17 @@ nltk.download('averaged_perceptron_tagger')
 from nltk.corpus import inaugural
 import numpy as np
 import pickle
+import os
 
 START = "<start>"
 STOP = "<stop>"
 PUNCT = [',', '.', ';', ':', '!', '?']
+
+def combine_label():
+    fileids = os.listdir('./corpus')  
+    
+    return
+
 
 
 def get_speeches(n=6):
