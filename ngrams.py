@@ -11,7 +11,7 @@ class NGRAM:
         self.file = filename
         self.words = []
         self.vocabulary = set()
-        self. wordmap = {}
+        self.wordmap = {}
         self.temp = None
         self.nopunct = None
         self.state = []
@@ -20,8 +20,6 @@ class NGRAM:
 
     def fit(self):
         PUNCT = [',', '.', ';', ':', '!', '?']
-        START =  '<START>'
-        STOP = '<STOP>'
 
         with open(self.file) as fin:
             data = fin.read().split(' ')
@@ -68,28 +66,34 @@ class NGRAM:
             self.wordmap[' '.join(self.state)].append(STOP)
         except KeyError:
             self.wordmap[' '.join(self.state)] = [STOP]
-
+        return self
 
     def pickle(self,write_type='wb'):
         with open(f'NGRM_wordmap.pk',f'{write_type}') as fout:
             pickle.dump(self.wordmap,fout)
-        return
+        return self
 
 
     def predict(self):
-        state = ' '.join(START for _ in range(self.N))
-        output = ""
+        state = []
+        for i in range(self.N):
+            state.append(START)
+        # state = " ".join(state)
+        # output = ""
+        output = []
         while STOP not in state:
             no_space_flag = False
-            index = self.rng.normal() % len(self.wordmap[state])
+            index = self.rng.integers(0,15) % len(self.wordmap[" ".join(state)])
             for symbol in PUNCT:
-                if symbol == self.wordmap[state][index]:
+                if symbol == self.wordmap[" ".join(state)][int(index)]:
                     no_space_flag = True
                     break
             if not no_space_flag: output += " "
-            output += self.wordmap[state][index]
-            state.append(self.wordmap[state][index])
+            output.append(self.wordmap[" ".join(state)][index])
+            state.append(self.wordmap[" ".join(state)][index])
+
             state = state[1:]
+        return " ".join(output)
 
     def _stop(self, state):
         for item in state:

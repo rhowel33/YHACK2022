@@ -18,9 +18,11 @@ if __name__ == "__main__":
     if len(sys.argv) != 4:
         raise ValueError("main.py takes 3 sysargs: N (number of previous words to use), filename (corpus), pickled (boolean if you want to load a pickle file")
 
-    N = sys.argv[1]
+    N = int(sys.argv[1])
     filename = sys.argv[2]
     pickled = sys.argv[3]
 
-    ngram = NGRAM()
+    ngram = NGRAM(N,filename,pickled)
+    print(ngram.fit().pickle().predict())
+
 
