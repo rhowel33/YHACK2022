@@ -6,7 +6,7 @@ STOP = "<stop>"
 PUNCT = [',', '.', ';', ':', '!', '?']
 
 class NGRAM:
-    def __init__(self,N,filename='kevin.txt'):
+    def __init__(self,N,filename='kevin.txt',pickled=False):
         self.N = N
         self.file = filename
         self.words = []
@@ -16,6 +16,7 @@ class NGRAM:
         self.nopunct = None
         self.state = []
         self.rng = np.random.default_rng()
+        self.pickled = pickled
 
     def fit(self):
         PUNCT = [',', '.', ';', ':', '!', '?']

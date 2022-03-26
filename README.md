@@ -1,5 +1,6 @@
 # YHACK2022
 Yhack code for year 2022
+Group: Eli Cox, Christian and Reagan Howell
 
 # Setup and installation
 Make sure you have python 3.10.x (use pyenv if you need to). Then run
