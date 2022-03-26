@@ -282,6 +282,7 @@ class NGRAM:
 if __name__ == "__main__":
     nmf = NGRAM(3)
     nmf.fit()
+    nmf.predict()
 
 
 
