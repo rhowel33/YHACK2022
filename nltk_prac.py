@@ -22,7 +22,7 @@ def get_speeches(n=6):
             strng = '\n'
             print(strng)
             fout.write(f"<start> {strng.join(inaugural.raw(fileids=f'{id}').split())} <stop>")
-    address = [f'<start> {"\n".join(inaugural.raw(fileids=f"{id}").split())} <stop>' for id in ids]
+    address = [f'<start> {strng.join(inaugural.raw(fileids=f"{id}").split())} <stop>' for id in ids]
 
     return "\n".join(address)
 
