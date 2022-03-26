@@ -6,7 +6,7 @@ STOP = "<stop>"
 PUNCT = [',', '.', ';', ':', '!', '?']
 
 class NGRAM:
-    def __init__(self,N,filename='kevin.txt'):
+    def __init__(self,N,filename='corpus.txt'):
         self.N = N
         self.file = filename
         self.words = []
