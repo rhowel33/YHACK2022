@@ -26,6 +26,8 @@ class NGRAM:
         self.pickled = pickled
 
     def token_pos(self):
+
+        #TODO grab the next pos instead of current in a new dictionary
         with open(self.file,'r') as fin:
             data = fin.read()
         self.tokens = nltk.word_tokenize(data)
@@ -90,8 +92,9 @@ class NGRAM:
             self.state.append(START)
 
         for word in self.words:
+            pos = self.word_pos[]
             try:
-                self.wordmap[' '.join(self.state)].append(word)
+                self.wordmap[' '.join(self.state)].append((word,))
             except KeyError:
                 self.wordmap[' '.join(self.state)] = [word]
             self.state.append(word)
