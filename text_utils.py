@@ -57,7 +57,7 @@ def split():
     """
     Splits Kevin corpus into separate files.
     """
-    with open(CORPUS_FILENAME + "_tagged.txt") as fin:
+    with open("corpus/" + CORPUS_FILENAME + "_tagged.txt") as fin:
         text = fin.read()
     content = []
     i = 0
