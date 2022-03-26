@@ -24,11 +24,9 @@ if __name__ == "__main__":
         pickled = False
     else:
         pickled = True
-    print("here1")
     if not pickled:
-        print('here')
         ngram = NGRAM(N,filename,pickled)
-        ngram.fit().pickle().predict()
+        print(ngram.fit().pickle().predict())
         a = len(ngram.predict())
     else:
         ngram = NGRAM(N,filename,pickled)

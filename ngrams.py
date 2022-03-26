@@ -80,14 +80,11 @@ class NGRAM:
         return self
 
 
-
     def predict(self):
         state = []
+        output = []
         for i in range(self.N):
             state.append(START)
-        # state = " ".join(state)
-        # output = ""
-        output = []
         while STOP not in state:
             no_space_flag = False
             index = self.rng.integers(0,15) % len(self.wordmap[" ".join(state)])
@@ -98,9 +95,8 @@ class NGRAM:
             if not no_space_flag: output += " "
             output.append(self.wordmap[" ".join(state)][index])
             state.append(self.wordmap[" ".join(state)][index])
-
             state = state[1:]
-        return " ".join(output)
+        return "".join(output)
 
     def _stop(self, state):
         for item in state:
