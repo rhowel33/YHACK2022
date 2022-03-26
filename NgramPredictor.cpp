@@ -31,7 +31,7 @@ void NgramPredictor::fit() {
         punctFlag = false;
         for (auto const &c : temp) { // check each character
             std::string punctChar = "";
-            if (std::isalpha(c)) { // keep if alpha
+            if (std::isalpha(c) || c == '<' || c == '>') { // keep if alpha
                 nopunct += c; 
             } 
             else {

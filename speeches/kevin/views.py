@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def landing(request):
-    return HttpResponse("Put a button here that generates a speech.")
+    with open("../test_speech.txt") as fin:
+        text = fin.read()
+    return HttpResponse(text)
 
-# Create your views here.

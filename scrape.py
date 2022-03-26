@@ -64,3 +64,4 @@ if __name__ == "__main__":
         clean()
     elif cmd == "annotate":
         annotate()
+
