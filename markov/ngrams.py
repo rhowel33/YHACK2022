@@ -1,4 +1,5 @@
 import numpy as np
+import pickle
 
 START = "<start>"
 STOP = "<stop>"
@@ -17,8 +18,14 @@ class NGRAM:
         self.rng = np.random.default_rng()
 
     def fit(self):
+        PUNCT = [',', '.', ';', ':', '!', '?']
+        START =  '<START>'
+        STOP = '<STOP>'
+
         with open(self.file) as fin:
             data = fin.read().split(' ')
+
+
 
         for word in data:
             self.nopunct = ''
@@ -28,16 +35,19 @@ class NGRAM:
                 punct_char = ''
                 if char.isalpha():
                     self.nopunct+=char
+
                 else:
                     for punc in PUNCT:
-                        punct_char += punc
-                        punct_flag = True
-                        break
+                        if punc == char:
+                            punct_char += punc
+                            punct_flag = True
+                            break
                     if punct_flag:
                         self.words.append(self.nopunct)
                         self.words.append(punct_char)
+                        break
 
-                break
+
 
             if not punct_flag:
                 self.words.append(self.nopunct)
@@ -57,6 +67,13 @@ class NGRAM:
             self.wordmap[' '.join(self.state)].append(STOP)
         except KeyError:
             self.wordmap[' '.join(self.state)] = [STOP]
+
+
+    def pickle(self,write_type='wb'):
+        with open(f'NGRM_wordmap.pk',f'{write_type}') as fout:
+            pickle.dump(self.wordmap,fout)
+        return
+
 
     def predict(self):
         state = ' '.join(START for _ in range(self.N))
