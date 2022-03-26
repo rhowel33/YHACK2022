@@ -17,9 +17,9 @@ def get_speeches(n=6):
     nltk.download()
 
     ids = inaugural.fileids()[-n:]
-    address = [f'<start> {inaugural.raw(fileids=f"{id}")} <stop>' for id in ids]
+    address = [f'{inaugural.raw(fileids=f"{id}")}' for id in ids]
 
-    return address
+    return "\n".join(address)
 
 
 class NGRAM:
@@ -38,10 +38,17 @@ class NGRAM:
     def token_pos(self):
 
         #TODO grab the next pos instead of current in a new dictionary
+        speeches = get_speeches(6)
         with open(self.file,'r') as fin:
-            data = fin.read()
+            data = fin.read() + speeches
+
         self.tokens = nltk.word_tokenize(data)
         self.pos_pairs = nltk.pos_tag(self.tokens)
+
+        with open("sql.txt",'w') as fout:
+            for key,val in self.pos_pairs:
+                fout.write(f"{key} {val}\n")
+
         self.word_pos = {}
         self.pos_word = {}
         for pair in self.pos_pairs:
@@ -61,6 +68,10 @@ class NGRAM:
                     self.pos_word[pos][word] = 1
                 else:
                     self.pos_word[pos][word] += 1
+        print(self.word_pos)
+        # with open("sql.txt",'w') as fout:
+        #     for key,val in self.word_pos.items():
+        #         fout.write(f"{key} {val}")
 
 
         return self
@@ -102,7 +113,7 @@ class NGRAM:
             self.state.append(START)
 
         for word in self.words:
-            pos = self.word_pos[]
+            # pos = self.word_pos[]
             try:
                 self.wordmap[' '.join(self.state)].append((word,))
             except KeyError:
