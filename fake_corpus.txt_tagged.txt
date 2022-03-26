@@ -57,7 +57,7 @@ Too often we ask the wrong question when we fail. We ask, “Am I good enough?�
 I testify that He is. God is as good, as powerful, as loving, as patient, and as consistent as He says He is. If we will but focus on the eternal truths He has made available to us, both through institutional revelation and through personal promptings and reassurances, He will turn all our failures into successes. I bear my witness that He lives and loves us with a love we cannot comprehend. He gave His Son so that we might move forward in our quest for perfection with full confidence and assurance that we will succeed despite our failures.
 I bear my solemn witness of these truths and express my love and God’s love for each of you, in the sacred name of Jesus Christ, amen. <stop>
 
-
+<start> 
 Our efforts to enhance inspiring learning—the kind of education for eternity described in our mission statement—can have an enormous impact on all of our students. But it need not and should not end there.
 
 It is a joy to be with you this morning. There is something about the beginning of a new school year that brings hope and optimism. Perhaps it is the chance to start out fresh—no matter how challenging the prior semester has been. Perhaps it is the promise that fall, with its crisp air and changing leaves—and, for me, football season—will soon arrive. Hopefully for all of us it is the thrill you feel in being involved in the intellect-expanding, soul-­refining, celestializing endeavor in which we are all engaged.
@@ -145,7 +145,7 @@ We should be anxious to make our service and scholarship available to the Church
  Our mission is clear and simple. It can, in one sense, be captured in the phrase “inspiring learning.” But it is more accurately and more fully described in our inspiring and inspired mission statement. As we face the opportunities and challenges of the coming year, I urge you to return to that mission statement often and to contemplate what your role is in carrying out that mission. I promise that as you do so, inspiration will come. It will come to you and it will come to your students.
 You are not here by accident and they are not here by accident. Our coming together will allow God’s work to go forward, both in our own individual lives and in the lives of others on this campus and throughout the world. I so testify, in the name of Jesus Christ, amen. <stop>
 
-If you make and keep sacred covenants, if you prepare yourself daily for spiritual experiences through scripture study and prayer, if you align and bind yourselves with God, a light will emanate from you.
+<start> If you make and keep sacred covenants, if you prepare yourself daily for spiritual experiences through scripture study and prayer, if you align and bind yourselves with God, a light will emanate from you.
 
 Every April the Area Seventies from throughout the world gather in Salt Lake City, along with the General Authorities and general auxiliary presidencies, for instruction from members of the First Presidency, the Quorum of the Twelve, and the Presidency of the Seventy. The instruction focuses on the most fundamental and most pressing issues of the Church—things like temple work, strengthening members, the Atonement, and hastening the work of salvation. It is a privilege to sit at the feet of these inspired leaders and to learn what is on their minds and in their hearts.
 Two years ago, in April 2013, President Thomas S. Monson addressed the group and spent all of his time talking about just one topic: you—the youth of the Church. Think about that. Of all the important things that President Monson could have addressed—missionary work, temples, or Church leadership—he said that it was the youth of the Church that had been on his mind the most. He noted that as youth today, you are living in a time of infinite promise, a time when you will face unique challenges. He observed that you are truly a royal generation, reserved to come forth in this special time for particular purposes.
@@ -241,7 +241,7 @@ Lucky girl.30
 One person setting an example for others—who probably wanted to help but didn’t know how—and, all of a sudden, a haunted place became a holy place. If you make and keep sacred covenants, if you prepare yourself daily for spiritual experiences through scripture study and prayer, if you align and bind yourselves with God, a light will emanate from you. Others will be drawn to that light, which is just a reflection of God’s light, and they will be drawn to Him. As that happens, you will not only be able to stand in holy places but you will also make the places in which you stand holy for you and for others.
 I bear you my witness that God lives. He has a perfect plan for each one of us. He places us where we can help others. That plan includes the birth, Atonement, death, and Resurrection of the Lord Jesus Christ, who leads this work today. I bear you my witness of these elements of the plan and of the truths that have been restored through Joseph Smith, and I do so in the name of Jesus Christ, amen. <stop>
 
-Whatever the circumstances you find yourself in, know with assurance that you can succeed. You are more capable, more talented, and more faith-filled than you realize. More important, you are more loved by God than you realize.
+<start> Whatever the circumstances you find yourself in, know with assurance that you can succeed. You are more capable, more talented, and more faith-filled than you realize. More important, you are more loved by God than you realize.
 
 It is a joy to join with Peggy in welcoming you to another school year. You are a wonderful sight, and this campus takes on new energy as you arrive here. We are grateful for that.
 My message today focuses on one of the most oft-repeated and yet most oft-overlooked and ignored and maybe violated commandments. By my count this commandment is repeated seventy-six times in the scriptures.1 The commandment was the first thing spoken by the angels who announced Christ’s birth to the shepherds outside Bethlehem.2 It was also the first thing spoken by the angels who announced Christ’s Resurrection to the women at the empty tomb.3 The commandment was conveyed by the angels who informed Mary and Joseph about their roles in the Savior’s mortal ministry,4 and it was part of the message of the angel who appeared to Zacharias to reveal the upcoming birth of John the Baptist.5 The commandment is repeated in at least two of our LDS hymns.6 It is a commandment that is found so frequently in the scriptures that we may not recognize its profound importance, especially for the times in which we live and the stage of life in which you students find yourselves. The commandment is a simple two-word injunction: “fear not.”
@@ -298,7 +298,7 @@ The blessings we enjoy now are because we made the choice to follow the Savior b
 My dear brothers and sisters: fear not. Whatever the circumstances you find yourself in, know with assurance that you can succeed. You are more capable, more talented, and more faith-filled than you realize. More important, you are more loved by God than you realize.
 God lives. He is our Heavenly Father. He has placed you on earth at this time and in this place because He knows you can succeed and that you can help others succeed in this particular setting. May the heavens open to give you glimpses of that truth and that destiny is my prayer as we begin this new semester. I ask it in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 I hope that because of our efforts to create a community of belonging, we may one day say, "The campus of BYU, the mountains of BYU, the buildings of BYU, how beautiful are they to the eyes of them who there came to the knowledge of their Redeemer as their hearts were knit together in love."
 
 
@@ -361,7 +361,7 @@ Then the farmer added, “But Lord, when you mix them all together and bake them
 When we find ourselves frustrated by events, by actions of others, or even by our own actions, let us remember that if we trust God and His goodness, things will work out in the end—even if the individual ingredients are not initially very appealing to us.
 The followers of Alma whose hearts were knit together in love came to that blessed state when they were gathered together in a compact, proximate society in a land called Mormon. Their experience there caused them to revere that place. As recorded in Mosiah, “The waters of Mormon, the forest of Mormon, how beautiful are they to the eyes of them who there came to the knowledge of their Redeemer.”45 I hope that because of our efforts to create a community of belonging, we may one day say, “The campus of BYU, the mountains of BYU, and the buildings of BYU, how beautiful are they to the eyes of them who there came to the knowledge of their Redeemer as their hearts were knit together in love.” May this be our goal and destiny is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 The development of empathetic thinking and feeling that a legal education can promote may contribute to the development of our ability to love as the Savior loves and to truly possess charity, a central and essential celestial attribute.
 
 What a pleasure it is to be with you this evening. It feels like I am back home. While I value all of our programs at the university, I will openly confess that the Law School holds a special place in my heart. It is a place that has greatly shaped my life, both as a student and as a faculty member.
@@ -432,7 +432,7 @@ My guess is that there are other celestial skills that this law school can help 
 And so I end where I began, with the university mission statement. Let me suggest that, contrary to what I might have implied or expressed earlier, that document has more application to the Law School and the Law School experience than may appear at first glance. Even though graduate programs are not its main focus, the key components of the mission statement—especially our desire to “provide a period of intensive learning” to assist students “in their quest for perfection and eternal life”—are fully applicable to all BYU students, including—and maybe especially—BYU law students. In that, if in no other way, the Law School provides a graduate experience of real consequence.
 We may not know all the ways in which the Law School contributes to that mission, but I am confident that just as the Lord is “well pleased that there . . . be a school in Zion,”36 He is well pleased that there be a law school in that school. I firmly believe that in the process of time we will come to view with greater appreciation—and maybe even reverence—the role the Law School plays both in influencing a world we wish to improve and in preparing souls for the world to come. May it be so is my prayer, in the name of Jesus Christ, amen. <stop>
 
-President Kevin J Worthen shares insights on how we should act despite outside influences.
+<start> President Kevin J Worthen shares insights on how we should act despite outside influences.
 
 
 Welcome to our university conference. It is obvious that while the timing of this event and the subsequent commencement of classes next week follow a long-standing traditional pattern, much of the coming school year and even the format of this program will be quite different from what we have come to expect. Some of those differences are the result of preplanned improvements and some are the result of the coronavirus pandemic. To use the scriptural phrase in 2 Nephi 2, we have “both . . . act[ed] and . . . [been] acted upon”1 during this past year. And the result is that this year is much different from previous years.
@@ -527,7 +527,7 @@ Even with that more positive perspective, there will be times when you will feel
 The second lesson, therefore, is that in times when you feel like you have failed, that nothing is going right, and that there is nothing that can be done about it, you can—and I pray that you will—trust God’s remarkable promise that He can make all things work together for the good of those who love Him. I testify that this remarkable promise, found in Romans 8:28 and repeated throughout modern-day scripture,19 is true. You may not see it immediately, but God can make all things work together for your good. He can turn an altercation between rival classes and a failed attempt to stamp a mountain with three letters into a symbol of unity and success. More important, He can make good come from all our efforts—not just from our successes but also from our failures and the failures of others that cause us pain. God is that good and that powerful. We just need to trust Him.
 So as you look at the Y on the mountain, I hope you see hope, optimism, and faith in the future. I congratulate you graduates on your achievement and pray you will be uplifted by the positive spirit of the Y in all your endeavors. And I offer that prayer in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 I urge you to view things from an eternal perspective—in the light of God’s great plan of salvation. As you do so, your past, present, and future will be more meaningful, more fruitful, and more joyful.
 
 Graduation is a time for celebration. It is also a time for calibration. We therefore look backward and forward. We recognize and applaud the past accomplishments of the nearly 6,000 of you who will be awarded degrees this day. At the same time, we encourage you to consider the future and where you are headed.
@@ -558,7 +558,7 @@ President Harold B. Lee repeatedly taught:
 “The most important . . . work you will ever do will be within the walls of your own homes.” We must never forget that.9
 As we celebrate your past accomplishments and look forward to your future, I urge you to view things from an eternal perspective—in the light of God’s great plan of salvation. As you do so, your past, present, and future will be more meaningful, more fruitful, and more joyful. May it be so is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 Joy is the key to our spiritual survival in the trying times in which we live, as well as in the trying times that lie ahead of us.
 
@@ -627,7 +627,7 @@ When the focus of our lives is on God’s plan of salvation . . . and Jesus Ch
 Thus Christ is not only “the author and finisher of our faith” but is, in one sense, the author and finisher of our joy. We begin to have joy when we focus on Christ. We can then bring the power of Christ into our lives by focusing on joy.
 I bear witness that He lives and that because He lives, we can, in the world to come, experience the fulness of joy that is part of our eternal destiny, if we so choose. And in this life we can, through joy, survive and flourish spiritually. May we more fully experience the power of joy in the coming year is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 My admonition is that you be awful in its original, unpejorated sense—that you always be aware of things that are awe-inspiring. I am urging you to be full of awe, if you will.
 
 It is customary for speakers at a graduation ceremony to give advice to the new graduates, to share with them words of wisdom to inspire them in their next stage of life. Perhaps because such sage advice is in somewhat limited supply, much of what is said at these events has been said before and will likely be said again. With that in mind, let me give you graduates a two-part charge that I doubt you have heard in any graduation ceremony you have attended.
@@ -654,7 +654,7 @@ As each of you are now graduates from BYU, you will carry with you your good nam
 Moreover, most of us have also taken upon us the sacred name of Jesus Christ. Please do nothing to diminish the importance of that name, for “Jesus Christ is the name which is given of the Father, and there is none other name given whereby [men and women] can be saved.”15 As we are filled with awe for Him and for His works, as we act in accordance with the promptings we feel at such times, His name will not only ameliorate but will eternally be glorified by what we do. I hope you make that one of your postgraduation goals as well.
 So be awful. Don’t pejorate; ­ameliorate. Words to live by. May we all do so is my humble prayer, which I express in the awe-inspiring, holy name of Jesus Christ, amen. <stop>
 
-
+<start> 
 You are a vital part of this gathering. You have something to gain from and something to offer in your interactions with those around you.
 
 
@@ -705,7 +705,7 @@ This kind of experience and countless others like it are made possible because s
 You students have the rare opportunity to be part of that kind of gathering—to be part of a compact society that God has prepared to help you learn and develop Christlike attributes. You are not here by accident. You have been gathered here by God. Whatever your background, whatever your talents, whatever your challenges or perceived weaknesses, you are a vital part of this gathering. You have something to gain from and something to offer in your interactions with those around you.
 May each of you recognize and delight in the blessings of being fully engaged in this unique kind of gathering “of learners and lifters”26 is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 There are at least two key ways in which we are already distinctive from most other universities. And when you put these two features together, I believe they make us truly unique in ways that are consistent with our prophetically approved mission.
 
 It is a pleasure to welcome all of you to our annual university conference and a pleasure to see you here. The past year has gone by very quickly—at least for me. That is a good sign. We often hear that time flies when you are having fun. As it turns out, studies confirm that that is true. One study noted that people experience time differently depending on what they are doing and how they feel about that particular activity. “Time consistently sped up when subjects were busy, happy, concentrating, or socializing . . . and slowed down . . . when subjects were bored, tired, or sad.”1 By that measure, this past year has been a very good one.
@@ -795,7 +795,7 @@ After several months of work by the students, John received a text. As John expl
 Inspiring learning—this is the kind of learning that can “assist individuals in their quest for perfection and eternal life”27 by helping them see the hand of the Lord operating in their lives. It is a unique kind of education that faith-based teaching and student-centered research can produce.
 I bear my witness that this university has a prophetically declared destiny. It is part of the rolling forth of the kingdom of God on earth. May each of us have the courage, vision, and faith needed to do those things that the Lord expects of us in moving this work along is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 The family proclamation clearly declares that “each [of us] is a beloved spirit son or daughter of heavenly parents, and, as such, each has a divine nature and destiny.”
 
 It is wonderful to be here with you today, to know that you have arrived safely from your travels, and to see in you the bright hope of anticipation that accompanies a new year and a new semester.
@@ -860,7 +860,7 @@ I am persuaded, that neither death, nor life, nor angels, nor principalities, no
 Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.32
 You are a child of God. You are a beloved spirit son or daughter of Heavenly Parents. Because of that, each of you has a divine nature and destiny. These statements are true. May they be ever in your mind and heart is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 What a magnificent building this is! I like to think of it as one of the temples of learning seen in vision by several during the early years of this institution. It exists as a result of the extraordinary efforts of so many: generous donors, skilled architects and laborers, energetic LDS Philanthropies employees, and dedicated and visionary faculty, staff, and administrators. There are so many to thank that time does not permit a full recital, but I would be remiss if I did not mention five individuals, beginning with Jack Wheatley and Ira Fulton, whose visions of a new engineering building go back nearly twenty years. I also thank Kelly Reeves, who led the LDS Philanthropies effort. And I want to thank, in particular, Alan Parkinson and King Hussein. These two led the way from the very beginning. They attended seemingly innumerable planning meetings, conceptualizing the macro and the micro of what this building should be. They also traveled tirelessly across the country in search of funds—in one case literally taking on the role of Moses, leading the way to a new promised engineering land. Through sheer determination and amazing consecration, they, with help from so many others, almost willed this building into existence. I thank them for their leadership, and I thank so many others for following their lead.
 Thanks is also due to those who—long before any of us were involved at BYU—laid the foundation for the outstanding engineering programs this building will house. Included among them is the person for whom the former engineering building was named: Harvey Fletcher. I hope that our faculty and students who occupy this building come to know Harvey, not just as the name of the café but as a role model for what we hope happens in this building.
 Harvey Fletcher was born and raised in Provo. He initially entered Brigham Young Academy in 1900, a year after he had finished eighth grade—a level of education that he thought was as much as he needed.1 After a year working full-time in the grocery business, he decided to go back to school, later recording that he did so “not because I wanted further education but because I thought it would be fun to be with my schoolmates again.”2 It was with that modest goal that Harvey began his experience at Brigham Young Academy.
@@ -875,7 +875,7 @@ First, he said, “The quality of the educational work which is done should be s
 Second, and more important, Harvey wrote, “The aim of the school should be to make the students loyal to the Church, and instill into their very being duty to God and their fellow men.”24
 So as we begin in this new building, I hope that you, like Harvey Fletcher, engage in educational work that is second to none while having instilled in your very being your duty to God and your fellowmen. May you carry on that legacy is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 That same aim—“to assist individuals in their quest for perfection and eternal life”—remains the principal purpose of this university today, as the first line of our mission statement makes clear.
 
 The program now calls for greetings by the president. Just what is really expected, however, is far from clear. One experienced president gave this sage advice to a new president about the role he should play at a commencement. “Think of yourself as the body at an Irish wake,” he said. “Your presence is necessary in order to have the party, but no one really expects you to say too much.” With that in mind, I would like to provide just a bit of context for today’s event.
@@ -889,7 +889,7 @@ But the connection to the past goes beyond mere mentoring genealogy. While many 
 Education boasts of having the highest . . . aim of any avocation in life. The whole range has but one object and purpose, which is to bring us nearer the platform of our God. This object was set forth and pointed out by Christ himself: “Be ye perfect even as your father in heaven is perfect.” This should be a teacher’s watchword.7
 That same aim—“to assist individuals in their quest for perfection and eternal life”8—remains the principal purpose of this university today, as the first line of our mission statement makes clear. It is a quest that will continue long after you leave this university, and indeed long after you have left this mortal existence. But it is the most important quest in which you will engage. May your education here and your use of that education to serve others in the future be productively employed to that end is my prayer in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 The concept of becoming a Zion people is embedded deep in our theology. In this dispensation, the Lord’s desire for His people to build a Zion society was made apparent even before the Church was organized.
 
@@ -1034,7 +1034,7 @@ Now, none of us are likely to have as dramatic a paradigm shift as J. Reuben Cl
 This is not a simple task. It requires not only that we collectively be of one heart and one mind but also that our hearts be pure. “For this is Zion—the pure in heart.”55 We will each need to change to some degree; we will each need to be better. We will each need to work harder. We will each need to be more spiritual. But the good news of the gospel is that we can change, we can improve, and we can become better, holier people. And as we do so, our efforts will inspire and improve those around us. This is the purpose of our mortal experience. Thus, as we strive to become a Zion university, we will be fulfilling our essential mission to assist individuals—others around us and ourselves included—in our quest for perfection and eternal life.
 I love this university. I love the cause in which it allows us to be engaged. And I love you. I believe with all my heart that as we orient our minds and hearts toward the Lord, as we knit our hearts together in love, and as we make our hearts pure, we will be part of the effort that will cause Zion to be “far ahead of the outside world in everything pertaining to learning of every kind.” May that be our destiny is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 In short, our end goal in this effort is to create “a community of belonging” and “an environment of belonging” in which each member is valued and all realize their divine potential as children of God.
 
 
@@ -1104,7 +1104,7 @@ As previous First Presidencies have said, we say again to you: “We expect—we
 I do not know what happened in the five-year interval between his second-century address and President Holland’s inauguration that led President Kimball to change the focus of his charge from “becoming” to “remaining” a unique university. But I am certain that he saw that remaining a unique university would be the key to realizing our ultimate destiny as “the fully recognized university of the Lord about which so much has been spoken.”
 That is our prophetically declared future. I love you and I bear my witness that that future is ­possible—indeed, inevitable. May we all be blessed to be a part of that soul-stretching, soul-stirring endeavor is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 You are not here by accident. God has a work to perform through you. Make Him the center of your efforts. Do what He would want you to do. Let His light shine more brightly through you as a result of your experiences at BYU.
 
 Welcome to the start of a new semester. We are so glad to have you students here on campus. Our community comes alive in a new way because you are here.
@@ -1173,7 +1173,7 @@ And if your eye be single to my glory, your whole bodies shall be filled with li
 I urge you to let the Y light you in such a way that you are filled with that light. You will then be successful not only in this particular educational endeavor but also in the rest of your life.
 As I recently told the faculty and staff, and as I also recently told those at new student orientation, I now say to you all: You are not here by accident. God has a work to perform through you. Make Him the center of your efforts. Do what He would want you to do. Let His light shine more brightly through you as a result of your experiences at BYU. If you do, miracles will happen in your life and you will see the majesty of the Lord work in the lives of others. May you realize this ­blessing—may the light in you shine more brilliantly because of what you do at BYU—is my prayer, in the name of the Lord Jesus Christ, amen. <stop>
 
-
+<start> 
 
 My message to you today is that truth does exist, it does matter, and it can be discerned. A major part of your purpose here at BYU is to enhance your knowledge of the truth and your ability to discern it.
 
@@ -1228,7 +1228,7 @@ President Joseph Fielding Smith once observed:
 The greatest truth [is] . . . that Jesus Christ is the Son of God, the Redeemer of the world, who came into this world to die that men might live. . . . It is far more important to know that . . . than it is to know all that can be obtained in secular education.44
 I close by bearing my witness that Jesus Christ lives. He is the Truth. He and only He can lead you to all truth. He is anxious to bless you not only in your educational endeavors here but in all your doings in all places at all times. If you will focus on Him in your pursuit of truth, you will succeed here and beyond. This I witness in His holy name, even Jesus Christ, amen. <stop>
 
-
+<start> 
 In this setting today it is worth noting that the two terms we hear often at graduation—alma mater and alumni—both originally referred to a special relationship, one very much like but also different from that between a parent and a child.
 
 I have long been fascinated by words and language. My children would call me a word nerd. I’m the kind of person who wonders why we drive on parkways and park on driveways. Think about it. Shouldn’t it be the other way around? Similarly, have you ever wondered if a fly lost its wings, would we call it a walk? Again, you have to think about it—and now you know why my children groan a lot when I try to use my sense of humor.
@@ -1243,7 +1243,7 @@ Each of these individuals has in a sense nurtured you as an alumnus, or foster c
  Second, the fact that you have been nurtured by so many gives rise to an obligation to nurture others. As alumni who have benefited from the care of others when you may have felt alone, you have a responsibility to become alma maters to others who may one day feel abandoned. As the hymn reminds us, “because [we] have been given much, [we] too must give.”8 “Enter to learn; go forth to serve” is not just a motto; it is a university and gospel imperative.
  Third, I hope that when you hear the terms alma mater and alumni and remember their familial origins and connotations, you reflect on the glorious truth that as important as the relationship is between you as alumni and the many people who have made BYU your alma mater, it pales in comparison to one central and eternal family relationship. I hope your time at BYU has increased your appreciation of the breadth of meaning and the depth of importance of the eternal truth that “each [of you] is a beloved spirit son or daughter of heavenly parents, and, as such, each has a divine nature and destiny.”9 I urge you to reflect on that truth at this time of celebration and gratitude. It will provide hope in times of distress and motivation to help others in times of success. If you do that, we, your alma maters, will be pleased to call you our alumni. That it may be so is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 
 In a sense then, our own iconic symbol can convey the kind of unique educational experience we hope to provide to our students. We might say that the letter Y explains why—W-H-Y—we exist and what we hope to accomplish.
@@ -1370,7 +1370,7 @@ I am both hopeful and expectant that from this university there will rise brilli
 As previous First Presidencies have said, we say again to you: “We expect—we do not merely hope—that Brigham Young University will become a leader among the great universities of the world.” To that expectation I would add, “Remain a unique university in all the world!” Then, in the process of time, this truly will become the fully recognized university of the Lord about which so much has been spoken in the past.57
 May we go forward in this great cause with energy, enthusiasm, and inspiration. I bear my witness that Heavenly Father is aware of our efforts. He is interested in our efforts, both for our benefit and for that of our students. If we will but focus in on what our mission is, we will be blessed to raise the stature of the university and, more important, affect the lives of thousands of our students. I bear you that witness in the name of Jesus Christ, amen. <stop>
 
-All of us view events through particular paradigms or lenses. If the lenses are accurate, the paradigm enhances our understanding and knowledge. If they are distorted, we sometimes make mistakes, which causes a paradigm shift.
+<start> All of us view events through particular paradigms or lenses. If the lenses are accurate, the paradigm enhances our understanding and knowledge. If they are distorted, we sometimes make mistakes, which causes a paradigm shift.
 
 In 1962, Thomas Kuhn published a book, The Structure of Scientific Revolutions, in which he set forth his view that development in scientific knowledge did not progress in a linear, continuous fashion but rather through periodic radical changes in the framework through which scientific questions are considered. Kuhn called these radical changes “paradigm shifts.”1 While the validity of Kuhn’s theory has been extensively debated in the last fifty years, there is little dispute that his book brought the terms paradigm shift and paradigm into popular culture.
 Today, dictionaries broadly define a paradigm as “a philosophical or theoretical framework.”2 It is a set of principles or ideas that provides a particular way of interpreting events. One textbook explains:
@@ -1438,7 +1438,7 @@ Elder Oaks said that his mother “always taught us that we had a father and she
 What a powerful example of the perspective and power that comes from viewing life’s challenges through the lens of the gospel paradigm. Viewing our lives and the events around us in the light of God’s plan for us will increase our understanding of gospel principles and other things we study, it will help us find joy in life’s daily challenges, and it will enable us to meet the most difficult challenges, even those that seem overwhelming. That is the way God ordained it to be under His perfect plan.
 I testify that God lives. He is literally our Father in Heaven. And He has a perfect plan of ­happiness for each of us. That plan is possible because of Jesus Christ. Christ is the key to the plan of salvation, the key to the plan of redemption—that is why we call Him Savior and Redeemer. I testify that He fulfills that role perfectly in ways that will bless our lives immeasurably if we will but trust Him. I so testify in His holy name, even Jesus Christ, amen. <stop>
 
-
+<start> 
 A junior high school student was once having problems learning math. His teacher struggled with him day after day and assigned him extra work to do each evening. The student would always return the next morning with the assignment uncompleted. After this had gone on for some time, the teacher vented his frustration by asking the student in an irritated tone, “What is it with you? Are you really ignorant or just apathetic?”
 The student casually shrugged his shoulders and replied, “I don’t know, and I don’t care.”
 I am going to talk today about knowing and caring, the relationship between those two concepts, and what that relationship means to us at this university. My starting point is a passage from the New Testament—1 Corinthians 8. In this portion of his epistle to the members of the Church in Corinth, Paul is answering a series of questions apparently put to him by the Saints in an earlier communication. Chapter 8 specifically addresses the propriety of eating meat that has been offered as sacrifice to idols.
@@ -1588,7 +1588,7 @@ In the midst of what may at times seem a tumult, [President Worthen] will be car
 . . . He will then find himself saying quietly in the face of what appear to be crises, “Things will work out.”
 I bear my witness that, as President Eyring testified, God the Father and His Son Jesus Christ live and that “They have been and always will be attentive to the needs of all who study and serve others here and who go on learning and serving others over their lifetimes and beyond.” As we follow that clearly marked path, we will be blessed and prospered. I so testify in the sacred name of Jesus Christ, amen. <stop>
 
-Service is not just connected to joy in some amorphous, general way. Service is an essential part of the refining process that makes true joy possible.
+<start> Service is not just connected to joy in some amorphous, general way. Service is an essential part of the refining process that makes true joy possible.
 
 There are many iconic symbols here on campus that help graduates remember—hopefully with fondness—their time at BYU. For many it is the Y on the mountain. For some it is the cougar statue at the LaVell Edwards Stadium. For others it is a particular building. Who knows, with enough time and perspective, even the Testing Center may bring warm memories. Maybe not.
 For many, the symbol they will remember the most is the sign at the southwest entrance to campus: Enter to Learn; Go Forth to Serve.
@@ -1644,7 +1644,7 @@ Riley then asked, tellingly, in the last words of her introduction, “Where els
 As you begin this next phase of your lives, do not underestimate your potential for good in the world. Many in the world are searching for the kind of competence, compassion, and vision you have developed as a result of the gifts God has given you, including your education here. If you will remember who you are—sons and daughters of heavenly parents with a divine purpose for your lives—you will find that who you are will define everything you do and that the things you do will make a profound difference in the world.
 May it be so is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 While all human beings share a common bond as beloved spirit children of Heavenly Parents, each of us is a unique individual with individual personalities, experiences, and gifts. And each of these individual characteristics can contribute to greater unity.
 
 
@@ -1713,7 +1713,7 @@ We can suppose that the reason why they were so united is because they knew the 
 God is the author of diversity and the source of unity. As we come closer to Him and to His Son, Jesus Christ, we will advance both powerful principles in a synergistic way. As we embrace our true primary identity as children of God and act as disciples of Christ, they will magnify our individual gifts while also making us more united.
 So my message to you is simple: persevere in unity by coming closer to Heavenly Father and Christ, who never tire and who are perfectly united.39 If we do so, we will be able to successfully meet whatever challenges we may face individually or collectively in the coming semester and year. May we do so is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 But there is even more good news for those who question their ability to receive and recognize revelation despite their sincere but often seemingly ineffective efforts to do so. It is that you are likely doing better at receiving revelation than you think.
 
 This is an exciting time to be at BYU. It is the beginning of a new semester, the women’s volleyball team is ranked number one, and no one of you is more than a week behind in your classes. If we keep those two things in the same order, we will be doing well this semester. It is also a time when there is much of significance happening in the world and in the Church. The inspired changes in priesthood quorums and the new emphasis on ministering announced at the April general conference provide ample evidence that revelation is thriving in The Church of Jesus Christ of Latter-day Saints and that the Lord is hastening His work.1
@@ -1793,7 +1793,7 @@ But please know that even in those times when the heavens seem silent, there are
 What do you do when you have prepared carefully, have prayed fervently, waited a reasonable time for a response, and still do not feel an answer? . . . When . . . you need to act, proceed with trust. As you are sensitive to the promptings of the Spirit, one of two things will certainly occur at the appropriate time: either the stupor of thought will come, indicating an improper choice, or the peace or the burning in the bosom will be felt, confirming that your choice was correct. When you are living righteously and are acting with trust, God will not let you proceed too far without a warning impression if you have made the wrong decision.35
 In the end, the one thing we can do to increase our ability to receive revelation is to trust God more—to increase our faith in Him. As President Nelson observed, “The most important truth the Holy Ghost will ever witness to you is that Jesus is the Christ, the Son of the living God.”36 Revelation will increase as we focus more on Christ as we follow His direction to look unto Him “in every thought.”37 As we do so, He will—in His own time and in His own way—bless us with revelation that will lead to not only inspiring learning but also to eternal exaltation. I witness that He lives and that this promise is sure, and I do so in the holy name of Jesus Christ, amen. <stop>
 
-To a large extent, the depth of our eternal happiness will be determined by the quality of our relationships with others.
+<start> To a large extent, the depth of our eternal happiness will be determined by the quality of our relationships with others.
 
 My message today is summarized in a familiar scripture, Genesis 2:18, in which the Lord declared, “It is not good that . . . man should be alone.” I suppose most of you upon hearing this will think that I am about to deliver the standard BYU speech on marriage. You are wrong—well, at least mostly wrong. Although the principles I address will apply with full force to marriage, I wish to speak about a broader truth, one recognized in both secular studies and gospel teaching. It is that no one can flourish in isolation and that the quality of our relationships with others will ultimately determine our level of fulfillment and happiness in both this mortal existence and the life to come. It is in this sense that it is not good for man—or woman—to be alone.
 I learned this insight from an unexpected source about twenty years ago. I was ­helping teach a class at the University of Chile about that country’s law dealing with indigenous ­people. Members of the class included not only law students but also a number of leaders of indigenous communities, principally Mapuche communities from southern Chile. Each week after the regular class, these Mapuche leaders would teach the ­students—and the ­professors—various aspects of Mapuche culture. On one occasion the topic was Mapuche cosmology, or religion.
@@ -1842,7 +1842,7 @@ Like other positive relationships, this eternal relationship comes at a price, b
 In the long run there is a connection between our relationships with others and our relationship with Heavenly Father and Christ. Elder Marlin K. Jensen observed that “the quality of our daily relationships with others is the best indication of what we think about Christ.”28 I believe the Lord takes much more literally than we may think His observation that “inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.”29 Because of His great love for all of God’s children, and as a result of the intimate and infinite nature of His great atoning sacrifice, Christ is personally affected—either negatively or positively—by the way we treat every single person with whom we come in contact. Thus the quality of our relationship with Him will depend to a great degree on the quality of our relationships with others.
 If we are more mindful of those relationships, if we do our best to reach out to ­others in ways that lift them, if we treat them as the potentially divine beings they are, and if their joys and sorrows become our joys and ­sorrows, then our lives will be more productive and more joyful. We will be filled with the love of Christ, and we will grow closer to Him, with the promise “that when he shall appear we shall be like him.”30 Of this I testify, in the sacred name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 My prayer and plea for you, as you start this new semester, is that you choose to humble yourselves in all your endeavors; that you choose to be open to new ideas, including those that come by revelation; that you fully and accurately recognize your individual talents and potential as literal offspring of heavenly parents; that you recognize that same divinity in every other person with whom you interact; that you avoid contention; that you love and serve others; and, most of all, that you come to know the Savior more by making time for Him each and every day.
 
@@ -1941,7 +1941,7 @@ The Lord has not provided this university and the experiences you have had here 
 Third, and finally, a genuine super graduate will recognize that true strength, resilience, durability, adaptability, and every other good gift come from God23 and that our ability to develop and use those gifts is enhanced as we follow the example of His Son, Jesus Christ. As we look unto Christ in every thought, we will find the strength and inspiration to become truly super. I trust that each of you graduates can accomplish each of these three goals, just as you have satisfied each of the requirements for the incredible achievement that we celebrate today.
 So, congratulations, class of 2021, super graduates of BYU. May the Lord bless you with super abilities to love and serve others. As you do so, you will live a super life that will extend for all eternity. This is my prayer for you, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 As important and as powerful as it is to learn some truth or to do some good act, it is much more important to be true and to be good. If you become a true and good spouse, parent, child, sibling, co-worker, or friend—and ultimately realize your divine potential as sons and daughters of heavenly parents—your higher education that has begun but not ended here will be a true success.
 
 This is my first graduation ceremony as president of the university. As you might imagine, I have given a little thought to what graduation ceremonies are all about.
@@ -1963,7 +1963,7 @@ But the observation goes one step further, drawing a contrast not just between k
 In the long run, your success at BYU—and your success in the next phases of your life—will be measured not by what you have learned from some textbook. You will soon forget much of that, if it wasn’t forgotten the minute you walked out of the final. Nor will your success be determined solely by what you have done here. Your grade point average, for example, will matter less and less as time goes on. (For some that is good news.) Your success, here and beyond, will ultimately be measured by what you become, by your character. The real question to be asked at a ceremony of this kind is “How close are we to reaching our full potential?” The BYU mission statement indicates that this is a place where “the full realization of human potential is pursued.”9 And that potential is greater than many in the world imagine, because all human beings are “beloved spirit son[s] or daughter[s] of heavenly parents, and, as such, each has a divine nature and destiny.”10
 As important and as powerful as it is to learn some truth or to do some good act, it is much more important to be true and to be good. If you become a true and good spouse, parent, child, sibling, co-worker, or friend—and ultimately realize your divine potential as sons and daughters of heavenly parents—your higher education that has begun but not ended here will be a true success. Reminding ourselves of these truths and that potential is reason aplenty to engage in this distinctive ceremony. May each of you realize that full potential is my prayer in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 I can predict with a high degree of certainty that there will be many times in your postgraduate life when you will face decisions that will ultimately be determined by whether you are motivated by pride and riches on the one hand or whether you are moved to act consistently with truths that resonate in your heart and in your mind on the other.
 
 Graduation ceremonies have been occurring at BYU since 1877; some have been more memorable than others. The graduation exercises of 1899 were unusual in several respects, especially when compared to the ceremonies we are holding today. The venue was smaller. It was held in the Provo Stake Tabernacle. And the procession was a bit longer. It went five blocks from the Academy Building to the tabernacle. The nature of the student achievements highlighted was also different from what we see today. We have students today who have worked on neonatal ventilators, NASA solar panel arrays, and the search for a cure to Alzheimer’s disease. By contrast, in 1899 the highlight was an “exhibit of handwork of the students from needle work and drawing to hardwood desks and bookcases.”1 Twenty students were honored in that 1899 ceremony, and only six of those received college degrees.2 Today we celebrate more than 6,000 graduates, all of whom will receive college degrees.
@@ -2000,7 +2000,7 @@ I thank God that hundreds of young people are being spoiled every year in the Br
 I hope that you have been spoiled in that way during your time here, that you will never be satisfied to give anything but the best that lies within you, and that you will fulfill all of which your teachers believe you capable. This will happen as you are guided not by pride and riches but by your heart, your head, and your hand united in truth.
 We love you. And we wish you the Lord’s blessings in all you do. You have been chosen to come forth at this time to bless the world. That you may do so is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 At those times when you wonder if there is any reason to hope, when you wonder if anyone cares—or if anyone should care—I invite you to ask God what He thinks of you—what He really thinks of you.
 
@@ -2050,7 +2050,7 @@ Third, I hope that each of you feels fully a part of the BYU community and that 
 Fourth, and most important, I hope that in the coming year each of you can feel in greater measure God’s love for you individually. At those times when you wonder if there is any reason to hope, when you wonder if anyone cares—or if anyone should care—I invite you to ask God what He thinks of you—what He really thinks of you. I know that can seem to be a frightening endeavor since you know that He knows better than anyone all your faults. But if you are truly sincere, you will be pleasantly surprised by His response, because He loves you much more than you can imagine.
 You may feel that you do not have enough hope to generate faith, but I can assure you that the Lord has enough love to let you feel His charity. His love for you is perfect—not because you are perfect, not because you got admitted to BYU, not because you aced a test, and not because your parents are proud of you, but because you are you and you are His. If you feel that love more fully, you will find more hope in every circumstance and in all you do. My greatest hope for you is that you experience that kind of hope through God’s love in this coming year. That you may do so is my prayer and my hope for you, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 
 As we elevate ourselves intellectually, spiritually, and in character-building ways, we will encounter new and exciting challenges and opportunities that we have not seen before.
@@ -2087,7 +2087,7 @@ As we ascend to the tops of the mountains in these ways as a university, we will
 It should be obvious to us all that the ultimate future of BYU is partially hidden from our immediate view. Until we have climbed the hills just ahead, we cannot glimpse what lies beyond. And the hills ahead are higher than we think. We cannot be transported over them without meeting demanding challenges. . . . You will not always be able to see the future, but by drawing close to our Heavenly Father, you will be guided.17
 So, to the mountains we go. The climb will be challenging, but it will also be exhilarating, elevating, and, yes, ethereal. May we move ever upward in that endeavor is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 
 
@@ -2120,7 +2120,7 @@ Put forth your ability to learn as fast as you can, and gather all the strength 
 I hope that during your BYU years each of you has experienced the mind and soul-expanding experience of using newly discovered truths to bless the lives of others around you.
 And so I congratulate each of you graduates for having completed this formal stage of your learning process, but I do so with the hope that this is just the beginning—the ­commencement—of the next phase of your eternal learning process, a process that, if successful, will lead to the fulness of joy that comes from discovering the most important eternal truths and from sharing those truths with others to improve their lives. May this be your destiny is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 John A. Widtsoe would no doubt be pleased with this remarkable new facility. But he would also remind us that, in the long run, what happens here and the attitude and spirit of those who study and labor here will be the most important factors in its future.
 
@@ -2141,7 +2141,7 @@ In 1930 Elder Widtsoe shared his prophetic vision of and confidence in the futur
 BYU has a great mission in these latter days. I have little fear about its future. The rumblings may always continue, but sooner or later the institution will be so firmly established that even an earthquake cannot undo it.18
 This new Life Sciences Building is seismically much stronger and sounder than the Widtsoe Building it replaces. The spirit with which the faculty and students engage in their work can make it spiritually much stronger and more solid. May we work successfully to that end is my prayer, in the name of Jesus Christ, amen. <stop>
 
-
+<start> 
 
 
 A BYU education does not focus solely on the acquisition of knowledge, as important as that is. As our mission statement makes clear, a BYU education focuses on “the full realization of human potential.”
@@ -2228,7 +2228,7 @@ That is the best value in higher education today. It is a holistic education tha
 So as our university conference theme encourages us to do, “let us cheerfully do all things that lie in our power” to provide that kind of education. Then, as that scripture promises, we can “stand still, with the utmost assurance, to see the salvation of God, and for his arm to be revealed.”19
 I bear you my witness that this university is part of the rolling forth of the kingdom of God on the earth. We, through our students, can have a magnificent impact on the world around us. That is our mission and our destiny, if we work toward it. I am grateful to each of you for what you do, for who you are, and for the impact you have on our remarkable students. I urge you to do a little more, to be a little better, with a promise that your lives and the lives of so many others will be richer and more joyful as a result. I bear you that witness in the holy name of Jesus Christ, amen. <stop>
 
-
+<start> 
 We are blessed to have good role models of character at the university—both among the faculty and staff, as well as in the student body. To that end I would ask all of us to consider the impact our actions and decisions have on others.
 
 I join Peggy in welcoming you to the new school year. For some of you, including an unprecedented number of returned missionaries, this will be your first semester as full-time students at BYU. Others are back for another round. For all, it is a wonderful time of new opportunities, challenges, and, we hope, optimism. As Peggy mentioned, the women’s volleyball and soccer teams are both ranked nationally. The men’s and women’s cross-­country teams both won their first meets. And this past weekend the football team demonstrated that Book of Mormon scriptures apply to our times. Read Moroni 7:29 before you watch the replay of that last play.
