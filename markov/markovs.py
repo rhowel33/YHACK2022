@@ -204,7 +204,70 @@ class SentenceGenerator(MarkovChain):
         return " ".join(self.path("$tart", "$top")[1:-1])
 
 
-def fun(a:int=0):
-    return a
+class NGRAM:
+    def __init__(self,N,filename='kevin.txt'):
+        self.N = N
+        self.file = filename
+        self.words = []
+        self.vocabulary = set()
+        self. wordmap = {}
+        self.temp = None
+        self.nopunct = None
+        self.state = []
 
-print(fun("a"))
+    def fit(self):
+        PUNCT = [',', '.', ';', ':', '!', '?']
+        START =  '<START>'
+        STOP = '<STOP>'
+
+        with open(self.file) as fin:
+            data = fin.read().split(' ')
+
+
+        for word in data:
+            self.nopunct = ''
+            punct_flag = False
+
+            for char in word:
+                punct_char = ''
+                if char.isalpha():
+                    self.nopunct+=char
+                else:
+                    for punc in PUNCT:
+                        punct_char += punc
+                        punct_flag = True
+                        break
+                    if punct_flag:
+                        self.words.append(self.nopunct)
+                        self.words.append(punct_char)
+
+                break
+
+            if not punct_flag:
+                self.words.append(self.nopunct)
+
+        for i in range(self.N):
+            self.state.append(START)
+
+        for word in self.words:
+            try:
+                self.wordmap[' '.join(self.state)].append(word)
+            except KeyError:
+                self.wordmap[' '.join(self.state)] = [word]
+            self.state.append(word)
+            self.state = self.state[1:]
+
+        try:
+            self.wordmap[' '.join(self.state)].append(word)
+        except KeyError:
+            self.wordmap[' '.join(self.state)] = [word]
+
+
+
+
+nmf = NGRAM(3)
+
+nmf.fit()
+
+
+
