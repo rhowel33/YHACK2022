@@ -258,9 +258,9 @@ class NGRAM:
             self.state = self.state[1:]
 
         try:
-            self.wordmap[' '.join(self.state)].append(word)
+            self.wordmap[' '.join(self.state)].append(STOP)
         except KeyError:
-            self.wordmap[' '.join(self.state)] = [word]
+            self.wordmap[' '.join(self.state)] = [STOP]
 
 
 
