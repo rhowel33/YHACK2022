@@ -53,6 +53,21 @@ def annotate():
         text = re.sub(r"<stop>.*\n\n", "<stop>\n\n<start> ", text)
         fout.write(text)
 
+def split():
+    """
+    Splits Kevin corpus into separate files.
+    """
+    with open(CORPUS_FILENAME + "_tagged.txt") as fin:
+        text = fin.read()
+    content = []
+    i = 0
+    for word in text.split():
+        if word != "<stop>":
+            content.append(word)
+        else:
+            with open(f"Speech_{i}.txt", "w") as fout:
+                fout.write(" ".join(content))
+            i += 1
 
 if __name__ == "__main__":
     cmd = sys.argv[1]
@@ -64,4 +79,5 @@ if __name__ == "__main__":
         clean()
     elif cmd == "annotate":
         annotate()
-
+    elif cmd == "split":
+        split()
