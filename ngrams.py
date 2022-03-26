@@ -71,7 +71,14 @@ class NGRAM:
     def pickle(self,write_type='wb'):
         with open(f'NGRM_wordmap.pk',f'{write_type}') as fout:
             pickle.dump(self.wordmap,fout)
+            print("pickle complete")
         return self
+
+    def _load(self):
+        with open(f'NGRM_wordmap.pk','rb') as fin:
+            self.wordmap = pickle.load(fin)
+        return self
+
 
 
     def predict(self):
@@ -105,7 +112,7 @@ if __name__ == "__main__":
     nmf = NGRAM(3)
     nmf.fit()
     print(nmf.wordmap)
-    nmf.predict()
+    print(nmf.predict())
 
 
 

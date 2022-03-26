@@ -20,9 +20,16 @@ if __name__ == "__main__":
 
     N = int(sys.argv[1])
     filename = sys.argv[2]
-    pickled = sys.argv[3]
-
-    ngram = NGRAM(N,filename,pickled)
-    print(ngram.fit().pickle().predict())
-
+    if sys.argv[3] == "False":
+        pickled = False
+    else:
+        pickled = True
+    print("here1")
+    if not pickled:
+        print('here')
+        ngram = NGRAM(N,filename,pickled)
+        ngram.fit().pickle().predict()
+        a = len(ngram.predict())
+    else:
+        ngram = NGRAM(N,filename,pickled)
 
