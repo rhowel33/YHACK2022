@@ -6,7 +6,7 @@ STOP = "<stop>"
 PUNCT = [',', '.', ';', ':', '!', '?']
 
 class NGRAM:
-    def __init__(self,N,filename='corpus.txt'):
+    def __init__(self,N,filename='corpus.txt',pickled=False):
         self.N = N
         self.file = filename
         self.words = []
@@ -16,6 +16,7 @@ class NGRAM:
         self.nopunct = None
         self.state = []
         self.rng = np.random.default_rng()
+        self.pickled = pickled
 
     def fit(self):
         PUNCT = [',', '.', ';', ':', '!', '?']
@@ -86,8 +87,8 @@ class NGRAM:
                     no_space_flag = True
                     break
             if not no_space_flag: output += " "
-            output += wordmap[state][index]
-            state.append(wordmap[state][index])
+            output += self.wordmap[state][index]
+            state.append(self.wordmap[state][index])
             state = state[1:]
 
     def _stop(self, state):
