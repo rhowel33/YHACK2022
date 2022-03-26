@@ -214,6 +214,7 @@ class NGRAM:
         self.temp = None
         self.nopunct = None
         self.state = []
+        self.rng = np.random.default_rng()
 
     def fit(self):
         PUNCT = [',', '.', ';', ':', '!', '?']
@@ -262,12 +263,16 @@ class NGRAM:
         except KeyError:
             self.wordmap[' '.join(self.state)] = [STOP]
 
+    def predict(self):
+        state = ' '.join(START for _ in range(self.N))
+        while not self.stop():
+            no_space_flag = False
+            index = self.rng.normal()
 
 
-
-nmf = NGRAM(3)
-
-nmf.fit()
+if __name__ == "__main__":
+    nmf = NGRAM(3)
+    nmf.fit()
 
 
 
