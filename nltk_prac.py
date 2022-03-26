@@ -17,7 +17,12 @@ def get_speeches(n=6):
     nltk.download()
 
     ids = inaugural.fileids()[-n:]
-    address = [f'{inaugural.raw(fileids=f"{id}")}' for id in ids]
+    for id in ids:
+        with open(f"./txts/{id}",'w') as fout:
+            strng = '\n'
+            print(strng)
+            fout.write(f"<start> {strng.join(inaugural.raw(fileids=f'{id}').split())} <stop>")
+    address = [f'<start> {strng.join(inaugural.raw(fileids=f"{id}").split())} <stop>' for id in ids]
 
     return "\n".join(address)
 
@@ -168,9 +173,10 @@ class NGRAM:
         return False
 
 if __name__ == "__main__":
-    nmf = NGRAM(3)
-    nmf.fit()
-    print(nmf.word_pos)
+    get_speeches(8)
+    # nmf = NGRAM(3)
+    # nmf.fit()
+    # print(nmf.word_pos)
     # print(nmf.wordmap)
     # print(nmf.predict())
 
