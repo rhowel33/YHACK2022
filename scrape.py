@@ -4,7 +4,7 @@ import sys
 from bs4 import BeautifulSoup as bs
 
 URL_LIST_FILENAME = "links.txt"
-CORPUS_FILENAME = "corpus.txt"
+CORPUS_FILENAME = "fake_corpus.txt"
 
 def get_links(url="https://speeches.byu.edu/speakers/kevin-j-worthen/"):
     """
@@ -43,10 +43,24 @@ def clean():
     with open(CORPUS_FILENAME, "w") as fout:
         fout.write(re.sub(r"\n{2,}", "\n", text))
 
+def annotate():
+    """
+    Adds <start> tags to the beginning of each speech in corpus file.
+    """
+    with open(CORPUS_FILENAME) as fin:
+        text = fin.read()
+    with open(CORPUS_FILENAME + "_tagged.txt", "w") as fout:
+        text = re.sub(r"<stop>.*\n\n", "<stop>\n\n<start> ", text)
+        fout.write(text)
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1]
     if cmd == "scrape":
         scrape()
     elif cmd == "get_links":
         get_links()
-
+    elif cmd == "clean":
+        clean()
+    elif cmd == "annotate":
+        annotate()
