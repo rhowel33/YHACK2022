@@ -18,7 +18,7 @@ def get_speeches(n=6):
 
     ids = inaugural.fileids()[-n:]
     for id in ids:
-        with open(f"./txts/{id}",'w') as fout:
+        with open(f"./corpus/{id}",'w') as fout:
             strng = '\n'
             print(strng)
             fout.write(f"<start> {strng.join(inaugural.raw(fileids=f'{id}').split())} <stop>")
