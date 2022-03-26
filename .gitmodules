@@ -1,0 +1,3 @@
+[submodule "ngrams"]
+	path = ngrams
+	url = git@github.com:elicox0/ngrams.git
