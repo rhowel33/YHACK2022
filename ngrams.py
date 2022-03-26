@@ -1,5 +1,6 @@
 import numpy as np
 import pickle
+import nltk
 
 START = "<start>"
 STOP = "<stop>"
@@ -24,8 +25,6 @@ class NGRAM:
         with open(self.file) as fin:
             data = fin.read().split(' ')
 
-
-
         for word in data:
             self.nopunct = ''
             punct_flag = False
@@ -45,8 +44,6 @@ class NGRAM:
                         self.words.append(self.nopunct)
                         self.words.append(punct_char)
                         break
-
-
 
             if not punct_flag:
                 self.words.append(self.nopunct)
